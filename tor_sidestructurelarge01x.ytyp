@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+      <bbMin x="-10.372559" y="-3.841011" z="-10.656616" />
+      <bbMax x="8.272949" y="4.947563" z="15.48938" />
+      <bsCentre x="-1.0498047" y="0.55327606" z="2.4163818" />
+      <bsRadius value="16.647125" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>tor_sidestructurelarge01x</name>
+      <textureDictionary>tor_sidestructurelarge01x</textureDictionary>
+      <physicsDictionary>tor_sidestructurelarge01x</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>tor_sidestructurelarge01x</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>tor_sidestructurelarge01x</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

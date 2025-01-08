@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+     <bbMin x="-9.721436" y="-1.7528076" z="-26.763336" />
+      <bbMax x="10.520752" y="1.7393799" z="28.770355" />
+      <bsCentre x="0.3996582" y="-0.006713867" z="1.0035095" />
+      <bsRadius value="29.605457" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>tor_ruins04x</name>
+      <textureDictionary>tor_ruins04x</textureDictionary>
+      <physicsDictionary>tor_ruins04x</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>tor_ruins04x</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>tor_ruins04x</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>

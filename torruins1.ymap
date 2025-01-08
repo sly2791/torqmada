@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-1426.826050" y="-3979.804688" z="-372.772171"/>
+	<streamingExtentsMax x="-513.059570" y="-2976.478271" z="448.327999"/>
+	<entitiesExtentsMin x="-1076.826050" y="-3629.804688" z="-22.772171"/>
+	<entitiesExtentsMax x="-863.059570" y="-3326.478271" z="98.327999"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>tor_ruins03x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-992.396912" y="-3382.890137" z="27.816793"/>
+			<rotation w="-0.515758" x="0.518168" y="-0.482024" z="-0.482855"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="999"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_beechers_ladder01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-989.274902" y="-3579.804688" z="48.327999"/>
+			<rotation w="0.734206" x="0.012816" y="0.011847" z="-0.678703"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="999"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>tor_ruins02x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-913.059570" y="-3489.040283" z="46.839657"/>
+			<rotation w="0.669547" x="-0.661066" y="0.273402" z="0.199876"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="999"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>tor_ruins01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-940.554077" y="-3389.910156" z="33.652626"/>
+			<rotation w="-0.473411" x="0.526239" y="-0.512029" z="-0.486602"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="999"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>tor_ruins04x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-1026.826050" y="-3571.166016" z="46.582932"/>
+			<rotation w="0.489559" x="-0.489426" y="0.508264" z="0.512310"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="999"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_beechers_ladder01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-990.679504" y="-3376.478271" z="27.227829"/>
+			<rotation w="0.964467" x="0.052536" y="-0.014658" z="0.258512"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="999"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>tor_ruins02x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-957.199829" y="-3538.230225" z="44.780003"/>
+			<rotation w="0.486026" x="-0.486026" y="0.513594" z="0.513594"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="999"/>
+			<childLodDist value="0"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>

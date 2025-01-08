@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <flags value="0" />
+      <loadFlags value="0" />
+      <specialAttribute value="0" />
+     <bbMin x="-17.063478" y="-4.953682" z="-9.491046" />
+      <bbMax x="14.8686495" y="7.3182907" z="12.423017" />
+      <bsCentre x="-1.0974145" y="1.1823044" z="1.4659853" />
+      <bsRadius value="20.3131" />
+      <lodDist value="120" />
+      <hdTextureDist value="60.0"/>
+      <name>tor_mainstructure91x</name>
+      <textureDictionary>tor_mainstructure91x</textureDictionary>
+      <physicsDictionary>tor_mainstructure91x</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>tor_mainstructure91x</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>tor_mainstructure91x</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
